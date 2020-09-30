@@ -112,5 +112,8 @@
       }
     }
   },
-  "defaultProject": "cooking-ang-app"
+  "defaultProject": "cooking-ang-app",
+  "cli": {
+    "analytics": "1018f5c0-dd4f-46a8-8a1d-934cb75e54f9"
+  }
 }
